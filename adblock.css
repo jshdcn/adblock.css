@@ -1,0 +1,45 @@
+iframe[aria-label="Advertisement"]{display:none !important;}
+iframe[title="Advertisement"]{display:none !important;}
+iframe[src*="pos.baidu.com"]{display:none !important;}
+[src~=mediav.com]{display:none !important;}
+a[href*="spro.so.com"]{display:none !important;}
+#ad_iframe{display:none;}
+#ad_position_box{display:none}
+#id_mobpoppos{display:none !important;}
+#txtlink{display:none !important;}
+#momagic_screen{display:none !important;}
+#QIHOO__WEB__NEW_OPENSCREEN__AD{display:none !important;}
+#__QIHOO_OPENSDK_REPLAYBTN__{display:none !important;}
+#swiper_ads__container{display:none !important;}
+#so_ob{display:none;}
+#so_top{display:none;}
+#recomment-news-container{display:none !important;}
+.res-mediav-right{display:none;}
+.lianmeng-ad{display:none;}
+.lianmeng-ad-inner{display:none;visibility:hidden;}
+.tipsa_ds{display:none !important;}
+.wztctg{display:none !important;}
+._23ISFX-mask{display:none !important;}
+.taboolaContainer{display:none !important;}
+.trc_rbox_container{display:none !important;}
+.e-buss{display:none !important;}
+.e_result{display:none !important;}
+.popupgg{display:none !important;}
+.bottom-gg--item{display:none;}
+.page--bottom__g4gg{display:none !important;}
+.article--bottom__g4gg{display:none !important;}
+.adsbygoogle{display:none; !important;}
+.sinaads{display:none !important;}
+div.data-google-av-adk{display:none;}
+div.cdc-activity-modal__body{display:none;}
+div.cdc-modal{display:none;}
+div.SNP-layer{display:none !important;}
+div.sinaad-toolkit-box{display:none !important;}
+div.common_ad_item{display:none;}
+div.top_ad_column{display:none;}
+div.picture-ad{display:none;}
+div._23ISFX{display:none !important;}
+div.passport-login-container{display:none;}
+div.passport-login-tip-container{display:none !important;}
+div.top-slider-ad{display:none;}
+div.flow__container{display:none;}
