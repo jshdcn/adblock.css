@@ -1,7 +1,7 @@
 iframe[aria-label="Advertisement"]{display:none !important;}
 iframe[title="Advertisement"]{display:none !important;}
 iframe[src*="pos.baidu.com"]{display:none !important;}
-[src~=mediav.com]{display:none !important;}
+[src~="mediav.com"]{display:none !important;}
 a[href*="spro.so.com"]{display:none !important;}
 #ad_iframe{display:none;}
 #ad_position_box{display:none}
@@ -28,11 +28,12 @@ a[href*="spro.so.com"]{display:none !important;}
 .bottom-gg--item{display:none;}
 .page--bottom__g4gg{display:none !important;}
 .article--bottom__g4gg{display:none !important;}
-.adsbygoogle{display:none; !important;}
+.adsbygoogle{display:none !important;}
 .sinaads{display:none !important;}
 div.data-google-av-adk{display:none;}
 div.cdc-activity-modal__body{display:none;}
 div.cdc-modal{display:none;}
+div.cdc-modal__mask{display:none;}
 div.SNP-layer{display:none !important;}
 div.sinaad-toolkit-box{display:none !important;}
 div.common_ad_item{display:none;}
