@@ -7,6 +7,7 @@ a[href*="spro.so.com"]{display:none !important;}
 #ad_position_box{display:none}
 #id_mobpoppos{display:none !important;}
 #txtlink{display:none !important;}
+#slide_ad{display:none;}
 #momagic_screen{display:none !important;}
 #QIHOO__WEB__NEW_OPENSCREEN__AD{display:none !important;}
 #__QIHOO_OPENSDK_REPLAYBTN__{display:none !important;}
@@ -30,6 +31,9 @@ a[href*="spro.so.com"]{display:none !important;}
 .article--bottom__g4gg{display:none !important;}
 .adsbygoogle{display:none !important;}
 .sinaads{display:none !important;}
+.slide-ad-exp{display:none;}
+.ad-report{display:none;}
+.ad-floor-exp{display:none;}
 div.data-google-av-adk{display:none;}
 div.cdc-activity-modal__body{display:none;}
 div.cdc-modal{display:none;}
